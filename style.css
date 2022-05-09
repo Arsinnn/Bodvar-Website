@@ -1,3 +1,7 @@
+html { 
+    background-color: black; 
+    cursor: url('cursor.png'), auto;
+}
 .back {
     display: flex;
     justify-content: center;
